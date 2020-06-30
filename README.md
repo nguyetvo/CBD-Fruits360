@@ -1,6 +1,6 @@
 # Fruit classification 
 
-Use Deep Learning and this dataset to predict kind of fruit as the given image. This project should follow the guideline as:
+Use Deep Learning and this dataset https://www.kaggle.com/moltean/fruits to predict kind of fruit as the given image. This project should follow the guideline as:
 
 1. Perform data exploration (group images, do clustering analysis for images, display images for analysis, etc.).
 
